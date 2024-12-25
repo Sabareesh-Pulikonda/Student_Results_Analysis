@@ -48,7 +48,7 @@ The notebook provides:
 - **Line plots**: Trends in performance percentages
 
 ## Predictive Model
-- Model Type: [Specify the type used, e.g., Linear Regression, Decision Tree]
+- Model Type: Linear Regression, Decision Tree, Support Vector Machine
 - Input Features: Subject scores, total marks, etc.
 - Output: Predicted performance or classification (e.g., pass/fail).
 
@@ -62,10 +62,4 @@ The project provides actionable insights into student performance data, enabling
 
 ---
 
-### Authors
-- [Your Name]
-- [Contact Information]
-
-### Acknowledgments
-Thanks to all contributors and supporters of the project.
 
